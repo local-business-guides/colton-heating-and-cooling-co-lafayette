@@ -25,6 +25,9 @@
 - [Best HVAC Contractor Co Lafayette](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/best-hvac-contractor-co-lafayette/): Best HVAC Contractor Co Lafayette: get help with heating, cooling, repairs, and maintenance. Call Colton Heating & Cooling Co today for service.
 - [Top Rated HVAC Contractor Co Lafayette](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/top-rated-hvac-contractor-co-lafayette/): Top Rated HVAC Contractor Co Lafayette: plan repairs, installation, or maintenance with local help. Call Colton Heating & Cooling Co today.
 
+## Newsroom
+- [Colton Heating & Cooling Co Publishes Guide to HVAC Contractor Lafayette CO](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/2026-11-07-colton-heating-cooling-co-publishes-guide-to-hvac/): Colton Heating & Cooling Co published a Lafayette HVAC guide, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
+
 ## Pages
 - [HVAC Contractor in Lafayette, Colorado](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/): Colton Heating & Cooling Co helps Lafayette homes and businesses stay comfortable with heating and cooling service year-round. Call +1719-483-6800.
 - [About Colton Heating & Cooling Co](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/about/): About Colton Heating & Cooling Co, Lafayette.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/rss.xml)
 - [Main resource site](https://colton-heating-cooling-lafayette.localbusinesses1.chatgpt.site)
