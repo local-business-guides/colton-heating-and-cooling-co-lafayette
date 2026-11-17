@@ -14,9 +14,9 @@
 - Heating contractor
 
 ## Guides
-- [HVAC Contractor Lafayette](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-contractor-lafayette/): HVAC Contractor Lafayette for practical heating and cooling support at home. Call Colton Heating & Cooling Co in Lafayette to discuss your next step.
-- [HVAC Contractor Lafayette CO](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-contractor-lafayette-co/): HVAC Contractor Lafayette CO for dependable heating and cooling care in Lafayette. Talk with Colton Heating & Cooling Co and plan your service today.
 - [HVAC Repair Lafayette Homeowners Can Rely On](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-repair-lafayette/): Need HVAC Repair Lafayette service? Get help with heating or cooling trouble in Lafayette, CO. Call Colton Heating & Cooling Co to discuss your home.
+- [HVAC Contractor Lafayette CO](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-contractor-lafayette-co/): HVAC Contractor Lafayette CO for dependable heating and cooling care in Lafayette. Talk with Colton Heating & Cooling Co and plan your service today.
+- [HVAC Contractor Lafayette](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-contractor-lafayette/): HVAC Contractor Lafayette for practical heating and cooling support at home. Call Colton Heating & Cooling Co in Lafayette to discuss your next step.
 - [HVAC Installation Lafayette for Your Property](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-installation-lafayette/): Planning HVAC Installation Lafayette? Get a clear path to new heating or cooling equipment in Lafayette, CO. Call Colton Heating & Cooling Co to talk.
 - [HVAC Replacement Lafayette for Home Comfort](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-replacement-lafayette/): Plan HVAC Replacement Lafayette for dependable home comfort in Lafayette. Talk through your options with Colton Heating & Cooling Co, then call to get started
 - [HVAC Maintenance Lafayette for Year-Round Care](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/hvac-maintenance-lafayette/): Keep HVAC Maintenance Lafayette on your home care list and support reliable heating and cooling in Lafayette. Call Colton Heating & Cooling Co to arrange serv
@@ -26,6 +26,7 @@
 - [Top Rated HVAC Contractor Co Lafayette](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/top-rated-hvac-contractor-co-lafayette/): Top Rated HVAC Contractor Co Lafayette: plan repairs, installation, or maintenance with local help. Call Colton Heating & Cooling Co today.
 
 ## Newsroom
+- [Colton Heating & Cooling Shares Lafayette HVAC Repair Guide](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/2026-11-17-colton-heating-cooling-shares-lafayette-hvac/): Colton Heating & Cooling Co has published a guide to HVAC repair, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-17)
 - [Lafayette HVAC Guide Released by Colton Heating & Cooling Co](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/2026-11-13-lafayette-hvac-guide-released-by-colton-heating/): Colton Heating & Cooling Co has released a guide for Lafayette residents and businesses, with related video, podcast and audio content. (2026-11-13)
 - [Colton Heating & Cooling Co Shares New Information on HVAC Contractor Co Lafayette](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/2026-11-09-colton-heating-cooling-co-shares-new-information/): Colton Heating & Cooling Co has published new information about HVAC Contractor Co Lafayette, with a video on YouTube and audio on SoundCloud. (2026-11-09)
 - [Colton Heating & Cooling Co Publishes Guide to HVAC Contractor Lafayette CO](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/2026-11-07-colton-heating-cooling-co-publishes-guide-to-hvac/): Colton Heating & Cooling Co published a Lafayette HVAC guide, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
@@ -38,4 +39,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/colton-heating-and-cooling-co-lafayette/news/rss.xml)
-- [Main resource site](https://colton-heating-cooling-lafayette.localbusinesses1.chatgpt.site)
+- [Main resource site](https://colton-heating-cooling-lafayette.localbusinesses1.chatgpt.site/news/2026-11-13-colton-heating-cooling-co-publishes-hvac-contractor/)
